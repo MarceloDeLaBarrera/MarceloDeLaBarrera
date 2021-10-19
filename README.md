@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">Computer Engineer student, on the way to becoming a Web Developer.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=marcelodelabarrera&label=Profile%20views&color=0e75b6&style=flat" alt="marcelodelabarrera" /> </p>
 
 - 🌱 I’m currently learning more about **Django, HTML, CSS, Boostrap.**
 
@@ -18,6 +17,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelodelabarrera&show_icons=true&locale=en&layout=compact" alt="marcelodelabarrera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelodelabarrera&show_icons=true&locale=en" alt="marcelodelabarrera" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=marcelodelabarrera&label=Profile%20views&color=0e75b6&style=flat" alt="marcelodelabarrera" /> </p>
 
 
 <!---
