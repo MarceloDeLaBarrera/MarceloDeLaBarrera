@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning more about **Django, HTML, CSS, Boostrap.**
 
-- 🌌 In a few weeks I'll upload some projects.** 
+- 🌌 In a few weeks I'll upload some projects. 
 
 - 📫 How to reach me? **marcelo.delabarrera@mail.udp.cl**
 
