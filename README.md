@@ -20,7 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelodelabarrera&show_icons=true&locale=en&layout=compact" alt="marcelodelabarrera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelodelabarrera&show_icons=true&locale=en" alt="marcelodelabarrera" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=marcelodelabarrera&label=Profile%20views&color=blueviolet&style=plastic&label=Views" alt="marcelodelabarrera" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=marcelodelabarrera&label=Profile%20Views&color=blueviolet&style=plastic" alt="marcelodelabarrera" /> </p>
 
 
 <!---
