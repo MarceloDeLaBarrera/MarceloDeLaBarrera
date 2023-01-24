@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
-<h3 align="center">Computer Engineer student, on the way to becoming a Web Developer.</h3>
-
-
-- 🌱 I’m currently learning more about **Django, HTML, CSS, Boostrap.**
+<h3 align="center">Computer Engineer. Full Stack Developer</h3>
 
 - 🌌 Working on some projects. 
 
